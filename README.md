@@ -1,8 +1,3 @@
-# Monnify-Payment-Gateway-API
-Sure, here is the improved text formatted for easy copying:
-
----
-
 # Monnify Payment Gateway API
 
 Welcome to the Monnify Payment Gateway API repository. This repository contains libraries and scripts for integrating the Monnify Payment Gateway across various programming languages and frameworks.
